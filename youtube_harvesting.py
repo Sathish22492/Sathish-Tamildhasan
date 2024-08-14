@@ -187,7 +187,6 @@ if web == "DATA COLLECTION":
             slt.dataframe(playlist_s)
 
 # Create base database named Youtube in My SQL
-
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
