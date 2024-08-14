@@ -36,8 +36,7 @@
 * googleapiclient.discovery
 * pandas as pd
 * mysql.connector
-* import time
 * streamlit as slt
-* import datetime
 * from streamlit_option_menu import option_menu
 * plotly.express as px
+
